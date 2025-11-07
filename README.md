@@ -60,3 +60,7 @@ netflix_eda_project/
 
 The dataset is available on Kaggle:
 [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
+## 💼 Business Relevance
+Understanding Netflix’s content distribution helps identify strategic markets, content preferences, and opportunities for localized production.  
+This EDA can guide decisions for media acquisition and audience targeting.
