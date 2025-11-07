@@ -50,4 +50,4 @@ The dataset is available on Kaggle: [Netflix Movies and TV Shows](https://www.ka
 ## 💼 Business Relevance
 Understanding Netflix’s content distribution helps identify strategic markets, content preferences, and opportunities for localized production. This EDA can guide decisions for media acquisition and audience targeting.
 
-🔙 [Back to Portfolio](https://github.com/BlladeRunner/My_Portfolio)
+🔙 [Back to Portfolio](https://github.com/BlladeRunner)
