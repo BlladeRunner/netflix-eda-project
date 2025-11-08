@@ -1,15 +1,15 @@
-🎬 Netflix EDA Project
+## 🎬 Netflix EDA Project
 
-📌 Project Description
+## 📌 Project Description
 This project is an Exploratory Data Analysis (EDA) of the Netflix Movies and TV Shows dataset.
 The goal is to explore the Netflix catalog identify trends in across years, countries, genres, ratings, and content duration.
 
-🛠️ Tools & Libraries
+## 🛠️ Tools & Libraries
 Python 3.11
 pandas, numpy — data analysis and cleaning
 matplotlib, seaborn — data visualization
 
-📊 Analysis Workflow
+## 📊 Analysis Workflow
 Load and inspect the dataset
 Data cleaning and preprocessing (duplicates, missing values, parsing dates and duration)
 
@@ -22,7 +22,7 @@ Genres and categories distribution
 Age ratings distribution
 Top directors and actors
 
-🔎 Key Insights
+## 🔎 Key Insights
 📈 Netflix rapidly expanded its library between 2015 and 2020.
 🎥 Most movies are 80–120 minutes long.
 📺 The majority of TV shows have only 1 season.
@@ -30,7 +30,7 @@ Top directors and actors
 🎭 Most common categories include International Movies, Dramas, Comedies.
 🔞 A large share of Netflix content targets mature audiences (TV-MA, TV-14).
 
-📂 Project Structure
+## 📂 Project Structure
 netflix_eda_project/
 ├─ data/ # dataset (optional, can be downloaded separately)
 ├─ netflix_eda.ipynb # Jupyter Notebook with analysis
@@ -38,11 +38,10 @@ netflix_eda_project/
 ├─ requirements.txt # dependencies
 └─ .gitignore # ignore rules for Git
 
-🔗 Dataset
-
+## 🔗 Dataset
 The dataset is available on Kaggle: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-## 💼 Business Relevance - 
+## 💼 Business Relevance  
 Understanding Netflix’s content distribution helps identify strategic markets, content preferences, and opportunities for localized production. This EDA can guide decisions for media acquisition and audience targeting.
 
 🔙 [Back to Portfolio](https://github.com/BlladeRunner)
