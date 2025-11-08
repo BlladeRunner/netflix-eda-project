@@ -1,4 +1,4 @@
-## 🎬 Netflix EDA Project
+# 🎬 Netflix EDA Project
 
 ## 📌 Project Description
 This project is an Exploratory Data Analysis (EDA) of the Netflix Movies and TV Shows dataset.
